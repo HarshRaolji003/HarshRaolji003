@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarshRaolji003
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning computer Engineering
+- 🌱 I’ve pursued a B.E. in Computer Engineering.
 - 📫 How to reach me harshraolji2003@gmail.com
 
 <!---
