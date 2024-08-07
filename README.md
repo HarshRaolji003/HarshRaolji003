@@ -16,7 +16,8 @@
 <a href="https://linkedin.com/in/harsh-raolji-22b0131b2" target="blank">
   <img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="harsh-raolji-22b0131b2" width="30" height="30" />
 </a> 
-<a href="https://leetcode.com/u/Harsh_Raolji/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="u/Harsh_Raolji" height="30" width="30" />
+<a href="https://leetcode.com/u/Harsh_Raolji/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" alt="u/Harsh_Raolji" height="30" width="40" />
 </a>
 </p>
 
