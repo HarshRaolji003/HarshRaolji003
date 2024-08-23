@@ -11,16 +11,6 @@
 - 👀 I’m interested in working on innovative projects and contributing to open-source communities.
 - 📫 How to reach me: **harshraolji2003@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harsh-raolji-22b0131b2" target="blank">
-  <img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="harsh-raolji-22b0131b2" width="30" height="30" />
-</a> 
-<a href="https://leetcode.com/u/Harsh_Raolji/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" alt="u/Harsh_Raolji" height="30" width="40" />
-</a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,react,nodejs,tailwindcss,mui,bootstrap,git,github,vscode,linux&perline=5" /><br>
